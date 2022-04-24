@@ -81,7 +81,7 @@ web/third-party.txt
 web/sw-config.js
 web/EULA.txt
 
-.env
+# .env
 app/config
 app/extconfig*
 web/extconfig*
